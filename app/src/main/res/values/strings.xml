@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">project2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="text_1">Print looking like this? Not enough material is being extruded!</string>
+    <string name="text_2">Humidity can affect filament and ruin prints. Tiny water drops in the plastic can turn to steam amd pop.</string>
+    <string name="text_3">Cheap filament with contaminants are more likely to clog your machine.</string>
+    <string name="text_4">Tiny voids in the filament due to moisture. Store your filament in a dry place and use a humidifier!</string>
+    <string name="text_5">If your prints are warping, try using rafts to hold it down and keep temperatures consistent.</string>
+    <string name="text_6">Don\'t use the wrong bed for the material you are printing or they might stick together.</string>
+    <string name="text_7">If you experience stringing, your temperature is too hot, or your z height  it too high.</string>
+    <string name="text_8">If there are gaps in your pint, it might because the filament is snagging off the reel.</string>
+    <string name="text_9">Failed prints arent the end of the world! tweak your setting and try again!</string>
+    <string name="text_10">Most filament is compostable in an industrial process, so it doesn\'t have to all go to waste</string>
+    <string name="text_11">Make sure your printbed is clear of debris and clean. Keep your machine well maintained!</string>
+    <string name="text_12">Pla is a softer plastic. It prints at lower temperatures and isn\'t as strong.</string>
+    <string name="text_13">PETG is a stringer plastic. it can handle more heat ans is more chemical resistant.</string>
+    <string name="text_14">TPU is a soft plastic that is flexible. It feels like rubber.</string>
+    <string name="text_15">You can gat PLA filament that glows in the dark.</string>
+    <string name="text_16">PLA+ is an improvement on PLA. you can print faster but you need to print a little hotter.</string>
+    <string name="text_17">ABS is a more harsh plastic. Its very strong and can handle heat way better than PLA. Printing this plastic does release toxic fumes.</string>
+    <string name="text_18">ASA is strong like ABS and it also has great uv and weather properties. Printing this plastic does release toxic fumes.</string>
+    <string name="text_19">Nylon is a type of plastic you can print very quickly.</string>
+    <string name="text_20">PC is a type of plastic that is very strong. Printing this plastic does release toxic fumes.</string>
+    <string name="text_21">PVA is a type of filament that can dissolve in water.</string>
+    <string name="text_22">Glass beds are great for pla, but not much else.</string>
+    <string name="text_23">Polypropylene beds are great for most filaments. Except polycarbonate and nylon</string>
+    <string name="text_24">Steel beds are great for everything except nylon.</string>
+    <string name="text_25">Garolite beds are the only bed that nylon can be printed onto.</string>
+    <string name="text_26">Your build plate can be have a smooth finish or a textured finish. Pla likes a smooth plate the best, everything else likes textured.</string>
+    <string name="text_27">Brass nozzles are the most common and fine for PLA. Brass is a soft metal, so it can be damaged by additives.</string>
+    <string name="text_28">Steel nozzles are tougher and can handle additives.</string>
+    <string name="text_29">Carbon fiber PLA is great for strength, but the fibers shred brass nozzles.</string>
+    <string name="text_30">PLA can be bought for as low as 15 dollars</string>
+</resources>
