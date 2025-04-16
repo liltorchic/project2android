@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">project2</string>
+    <string name="app_name">Printer</string>
     <string name="title_activity_main">MainActivity</string>
         <string name="text_1">Print looking like this? Not enough material is being extruded!</string>
         <string name="text_2">Humidity can affect filament and ruin prints. Tiny water drops in the plastic can turn to steam amd pop.</string>
